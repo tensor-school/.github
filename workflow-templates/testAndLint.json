@@ -1,0 +1,12 @@
+{
+  "name": "Test and lint workflow",
+  "description": "Octo Organization CI workflow template.",
+  "iconName": "icon",
+  "categories": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}
